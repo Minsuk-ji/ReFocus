@@ -34,15 +34,23 @@ to recent text-to-image models.
 
 ---
 
+
 <!-- Method -->
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
     <h2>Method</h2>
     <div class="content has-text-justified">
+        <!-- Method figure -->
+<div class="columns is-centered">
+  <div class="column is-four-fifths has-text-centered">
+    <figure class="image">
+      <img src="static/image/pipeline.png" >
+    </figure>
+  </div>
+</div>
       <p>
         
-      </p>
-    </div>
+     
   </div>
 </div>
 
@@ -50,11 +58,9 @@ to recent text-to-image models.
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
     <h2>Experimental Results</h2>
-    <div class="content has-text-justified">
-      <p>
-     
-      </p>
-    </div>
+    ![Turing Machine](/static/image/Turing_machine.png)
+
+  
   </div>
 </div>
 
