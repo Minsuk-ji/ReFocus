@@ -44,12 +44,9 @@ Next, a layout-conditioned diffusion model generates multiple drafts from indepe
 <h2 style="text-align:center;">Citation</h2>
 
 ```bibtex
-@article{turing1936computable,
-  title={On computable numbers, with an application to the Entscheidungsproblem},
-  author={Turing, Alan Mathison},
-  journal={Journal of Mathematics},
-  volume={58},
-  number={345-363},
-  pages={5},
-  year={1936}
+@article{ji2025compositional,
+  title={Compositional Image Synthesis with Inference-Time Scaling},
+  author={Ji, Minsuk and Lee, Sanghyeok and Ahn, Namhyuk},
+  journal={arXiv preprint arXiv:2510.24133},
+  year={2025}
 }```
