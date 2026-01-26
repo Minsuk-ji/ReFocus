@@ -28,12 +28,13 @@ Next, a layout-conditioned diffusion model generates multiple drafts from indepe
 
 <h2 style="text-align:center;">Experimental Results</h2>
 
-| ![Quantitative results table](static/image/table.png) |
+<p align="center">
+  <img src="static/image/table.png" alt="Quantitative results table" style="max-width:100%; height:auto;">
+</p>
 
-
-
-
-| ![Qualitative results](static/image/qual.png) |
+<p align="center">
+  <img src="static/image/qual.png" alt="Qualitative results" style="max-width:100%; height:auto;">
+</p>
 
 
 
@@ -51,4 +52,4 @@ Next, a layout-conditioned diffusion model generates multiple drafts from indepe
   number={345-363},
   pages={5},
   year={1936}
-}
+}```
