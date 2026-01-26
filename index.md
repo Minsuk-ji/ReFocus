@@ -42,7 +42,7 @@ Next, a layout-conditioned diffusion model generates multiple drafts from indepe
 
 
 
-## Citiation
+## Citation
 ```
 @article{ji2025compositional,
   title={Compositional Image Synthesis with Inference-Time Scaling},
