@@ -12,7 +12,6 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
 Despite their impressive realism, modern text-to-image models still struggle with compositionality, often failing to render accurate object counts, attributes, and spatial relations. To address this challenge, we present a training-free framework that combines an object-centric approach with self-refinement to improve layout faithfulness while preserving aesthetic quality. Specifically, we leverage large language models (LLMs) to synthesize explicit layouts from input prompts, and we inject these layouts into the image generation process, where a object-centric vision-language model (VLM) judge reranks multiple candidates to select the most prompt-aligned outcome iteratively. By unifying explicit layout-grounding with self-refine-based inference-time scaling, our framework achieves stronger scene alignment with prompts compared to recent text-to-image models.
 
----
 
 <h2 style="text-align:center;">Method</h2>
 
@@ -26,7 +25,7 @@ First, an LLM parses the prompt into an explicit layout 𝐿 consisting of objec
 
 Next, a layout-conditioned diffusion model generates multiple drafts from independent noise seeds. ReFocus then performs iterative self-refinement: it re-ranks candidates using a hybrid score that mixes scene-level CLIP alignment with object-level CLIP computed on crops defined by the layout, keeps top candidates, and applies a lightweight refinement step (low denoising strength). Repeating re-ranking and refinement progressively improves realism while maintaining compositional correctness.
 
----
+
 
 <h2 style="text-align:center;">Experimental Results</h2>
 
@@ -42,7 +41,7 @@ Next, a layout-conditioned diffusion model generates multiple drafts from indepe
 
 
 
----
+
 
 <h2 style="text-align:center;">Citation</h2>
 
