@@ -3,7 +3,7 @@ layout: project_page
 permalink: /
 title: Compositional Image Synthesis with Inference-Time Scaling
 authors: Minsuk Ji, Sanghyeok Lee, Namhyuk Ahn
-affiliations: Inha Univer
+affiliations: Inha University
 paper: https://arxiv.org/abs/2510.24133
 code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 ---
