@@ -16,8 +16,7 @@ Despite their impressive realism, modern text-to-image models still struggle wit
 <h2 style="text-align:center;">Method</h2>
 
 | ![ReFocus pipeline](static/image/pipeline.png) |
-|:--:|
-| Figure 1: Overview of ReFocus. |
+
 
 ReFocus is a training-free framework for generating high-fidelity images from complex compositional prompts while preserving object counts, attributes, and spatial relations. It combines explicit layout grounding with inference-time scaling, so users can obtain prompt-faithful results without manual trial-and-error.
 
@@ -30,14 +29,12 @@ Next, a layout-conditioned diffusion model generates multiple drafts from indepe
 <h2 style="text-align:center;">Experimental Results</h2>
 
 | ![Quantitative results table](static/image/table.png) |
-|:--:|
-| Table 1: Quantitative comparison. |
+
 
 
 
 | ![Qualitative results](static/image/qual.png) |
-|:--:|
-| Figure 2: Qualitative results. |
+
 
 
 
