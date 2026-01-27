@@ -15,9 +15,23 @@ $(document).ready(function() {
 			autoplay: false,
 			autoplaySpeed: 3000,
     }
+	
+	var topOptions = {
+	  slidesToScroll: 1,
+	  slidesToShow: 1,
+	  loop: true,
+	  infinite: true,
+	  autoplay: true,
+	  autoplaySpeed: 3000,
+	};
 
-		// Initialize all div with carousel class
-    var carousels = bulmaCarousel.attach('.carousel', options);
+	bulmaCarousel.attach('#carousel-left', topOptions);
+	bulmaCarousel.attach('#carousel-right', topOptions);
+
+	var carousels = bulmaCarousel.attach('.carousel:not(#carousel-left):not(#carousel-right)', options);
+
+		// // Initialize all div with carousel class
+  //   var carousels = bulmaCarousel.attach('.carousel', options);
 
     // Loop on each carousel initialized
     for(var i = 0; i < carousels.length; i++) {
