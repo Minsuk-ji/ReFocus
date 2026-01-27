@@ -30,7 +30,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
   <div class="item-3">
     <figure class="result-figure">
-      <img src="static/image/two bananas" >
+      <img src="static/image/two bananas.png" >
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “two bananas”
       </figcaption>
