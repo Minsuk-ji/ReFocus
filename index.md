@@ -8,22 +8,60 @@ venue: "✨ ICASSP 2026 ✨"
 paper: https://arxiv.org/abs/2510.24133
 code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 ---
-<div class="columns is-centered">
-  <div class="column is-full">
-    <div class="carousel" id="teaser-carousel">
-      <div class="item-1">
-        <img src="static/image/teaser_1.png" alt="Teaser 1">
-      </div>
-      <div class="item-2">
-        <img src="static/image/teaser_2.png" alt="Teaser 2">
-      </div>
-      <div class="item-3">
-        <img src="static/image/teaser_3.png" alt="Teaser 3">
-      </div>
+<!-- Top qualitative slider (place this ABOVE Abstract) -->
+<div id="qual-carousel" class="carousel results-carousel">
+  <div class="item-1">
+    <figure class="result-figure">
+      <img src="static/image/qual/qual_01.png" alt="qual 01">
+      <figcaption class="result-caption">
+        <span class="caption-label">Caption:</span> “a photo of a hybrid between a bee and a rabbit”
+      </figcaption>
+    </figure>
+  </div>
 
-      <div class="item-4"><img src="static/image/teaser_4.png" alt="Teaser 4"></div>
-      -->
-    </div>
+  <div class="item-2">
+    <figure class="result-figure">
+      <img src="static/image/qual/qual_02.png" alt="qual 02">
+      <figcaption class="result-caption">
+        <span class="caption-label">Caption:</span> “Pikachu is under a tree, digital art”
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="item-3">
+    <figure class="result-figure">
+      <img src="static/image/qual/qual_03.png" alt="qual 03">
+      <figcaption class="result-caption">
+        <span class="caption-label">Caption:</span> “A dog / bird / helmet / backpack is on the grass”
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="item-4">
+    <figure class="result-figure">
+      <img src="static/image/qual/qual_04.png" alt="qual 04">
+      <figcaption class="result-caption">
+        <span class="caption-label">Caption:</span> “superman / monkey / Homer Simpson / is scratching its head”
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="item-5">
+    <figure class="result-figure">
+      <img src="static/image/qual/qual_05.png" alt="qual 05">
+      <figcaption class="result-caption">
+        <span class="caption-label">Caption:</span> “A vibrant colorful bird sitting on tree branch”
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="item-6">
+    <figure class="result-figure">
+      <img src="static/image/qual/qual_06.png" alt="qual 06">
+      <figcaption class="result-caption">
+        <span class="caption-label">Caption:</span> “The beautiful scenery of a clam village near the sea”
+      </figcaption>
+    </figure>
   </div>
 </div>
 
