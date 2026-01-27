@@ -14,7 +14,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
     <figure class="result-figure">
       <img src="static/image/a photo of a yellow handbag and a blue refrigerator.png">
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “a photo of a hybrid between a bee and a rabbit”
+        <span class="caption-label">Caption:</span> “a photo of a yellow handbag and a blue refrigerator”
       </figcaption>
     </figure>
   </div>
@@ -23,7 +23,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
     <figure class="result-figure">
       <img src="static/image/a photo of a red bowl and a pink sink.png" >
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “Pikachu is under a tree, digital art”
+        <span class="caption-label">Caption:</span> “a photo of a red bowl and a pink sink”
       </figcaption>
     </figure>
   </div>
