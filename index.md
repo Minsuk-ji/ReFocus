@@ -14,7 +14,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
     <figure class="result-figure">
       <img src="static/image/a photo of a yellow handbag and a blue refrigerator.png">
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “a photo of a yellow handbag and a blue refrigerator”
+        <span class="caption-label">Caption:</span> “a yellow handbag and a blue refrigerator”
       </figcaption>
     </figure>
   </div>
@@ -23,43 +23,43 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
     <figure class="result-figure">
       <img src="static/image/a photo of a red bowl and a pink sink.png" >
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “a photo of a red bowl and a pink sink”
+        <span class="caption-label">Caption:</span> “ a red bowl and a pink sink”
       </figcaption>
     </figure>
   </div>
 
   <div class="item-3">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_03.png" >
+      <img src="static/image/two bananas" >
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “A dog / bird / helmet / backpack is on the grass”
+        <span class="caption-label">Caption:</span> “two bananas”
       </figcaption>
     </figure>
   </div>
 
   <div class="item-4">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_04.png" >
+      <img src="static/image/refrigerator below a scissors.png" >
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “superman / monkey / Homer Simpson / is scratching its head”
+        <span class="caption-label">Caption:</span> “refrigerator below a scissors”
       </figcaption>
     </figure>
   </div>
 
   <div class="item-5">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_05.png" >
+      <img src="static/image/a knife right of a suitcase.png" >
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “A vibrant colorful bird sitting on tree branch”
+        <span class="caption-label">Caption:</span> “a knife right of a suitcase”
       </figcaption>
     </figure>
   </div>
 
   <div class="item-6">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_06.png">
+      <img src="static/image/Four traffic lights.png">
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “The beautiful scenery of a clam village near the sea”
+        <span class="caption-label">Caption:</span> “Four traffic lights”
       </figcaption>
     </figure>
   </div>
