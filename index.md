@@ -12,7 +12,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 <div id="qual-carousel" class="carousel results-carousel">
   <div class="item-1">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_01.png" alt="qual 01">
+      <img src="static/image/qual/qual_01.png">
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “a photo of a hybrid between a bee and a rabbit”
       </figcaption>
@@ -21,7 +21,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
   <div class="item-2">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_02.png" alt="qual 02">
+      <img src="static/image/qual/qual_02.png" >
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “Pikachu is under a tree, digital art”
       </figcaption>
@@ -30,7 +30,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
   <div class="item-3">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_03.png" alt="qual 03">
+      <img src="static/image/qual/qual_03.png" >
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “A dog / bird / helmet / backpack is on the grass”
       </figcaption>
@@ -39,7 +39,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
   <div class="item-4">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_04.png" alt="qual 04">
+      <img src="static/image/qual/qual_04.png" >
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “superman / monkey / Homer Simpson / is scratching its head”
       </figcaption>
@@ -48,7 +48,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
   <div class="item-5">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_05.png" alt="qual 05">
+      <img src="static/image/qual/qual_05.png" >
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “A vibrant colorful bird sitting on tree branch”
       </figcaption>
@@ -57,7 +57,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
   <div class="item-6">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_06.png" alt="qual 06">
+      <img src="static/image/qual/qual_06.png">
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “The beautiful scenery of a clam village near the sea”
       </figcaption>
