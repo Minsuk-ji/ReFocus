@@ -4,6 +4,7 @@ permalink: /
 title: Compositional Image Synthesis with Inference-Time Scaling
 authors: Minsuk Ji, Sanghyeok Lee, Namhyuk Ahn
 affiliations: Inha University
+venue: ✨ ICCV 2025 ✨
 paper: https://arxiv.org/abs/2510.24133
 code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 ---
