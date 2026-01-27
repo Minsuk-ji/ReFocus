@@ -8,6 +8,27 @@ venue: ✨ ICCV 2025 ✨
 paper: https://arxiv.org/abs/2510.24133
 code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 ---
+<div class="columns is-centered">
+  <div class="column is-full">
+    <div class="carousel" id="teaser-carousel">
+      <div class="item-1">
+        <img src="static/image/teaser_1.png" alt="Teaser 1">
+      </div>
+      <div class="item-2">
+        <img src="static/image/teaser_2.png" alt="Teaser 2">
+      </div>
+      <div class="item-3">
+        <img src="static/image/teaser_3.png" alt="Teaser 3">
+      </div>
+
+      <!-- 더 추가 가능
+      <div class="item-4"><img src="static/image/teaser_4.png" alt="Teaser 4"></div>
+      -->
+    </div>
+  </div>
+</div>
+
+
 
 <h2 style="text-align:center;">Abstract</h2>
 
