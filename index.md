@@ -12,7 +12,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 <div id="qual-carousel" class="carousel results-carousel">
   <div class="item-1">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_01.png">
+      <img src="static/image/a photo of a yellow handbag and a blue refrigerator.png">
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “a photo of a hybrid between a bee and a rabbit”
       </figcaption>
@@ -21,7 +21,7 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
   <div class="item-2">
     <figure class="result-figure">
-      <img src="static/image/qual/qual_02.png" >
+      <img src="static/image/a photo of a red bowl and a pink sink.png" >
       <figcaption class="result-caption">
         <span class="caption-label">Caption:</span> “Pikachu is under a tree, digital art”
       </figcaption>
