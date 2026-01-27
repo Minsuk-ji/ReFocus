@@ -21,7 +21,6 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
         <img src="static/image/teaser_3.png" alt="Teaser 3">
       </div>
 
-      <!-- 더 추가 가능
       <div class="item-4"><img src="static/image/teaser_4.png" alt="Teaser 4"></div>
       -->
     </div>
