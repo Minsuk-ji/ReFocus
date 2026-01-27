@@ -158,3 +158,37 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
+
+/* ===== Results carousel (image + caption) ===== */
+.results-carousel .item-1,
+.results-carousel .item-2,
+.results-carousel .item-3,
+.results-carousel .item-4,
+.results-carousel .item-5,
+.results-carousel .item-6 {
+  padding: 0.5rem;
+}
+
+.results-carousel .result-figure {
+  margin: 0;
+  border-radius: 14px;
+  overflow: hidden; /* 이미지/캡션 모서리 같이 둥글게 */
+}
+
+.results-carousel .result-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.results-carousel .result-caption {
+  padding: 0.45rem 0.75rem;
+  font-size: 0.95rem;
+  line-height: 1.25;
+  background: #f6edc7; /* 첨부 예시처럼 연한 캡션 박스 */
+}
+
+.results-carousel .caption-label {
+  font-weight: 700;
+}
+
