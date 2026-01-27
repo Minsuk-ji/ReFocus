@@ -160,12 +160,7 @@ body {
 }
 
 /* ===== Results carousel (image + caption) ===== */
-.results-carousel .item-1,
-.results-carousel .item-2,
-.results-carousel .item-3,
-.results-carousel .item-4,
-.results-carousel .item-5,
-.results-carousel .item-6 {
+.results-carousel > div {
   padding: 0.5rem;
 }
 
