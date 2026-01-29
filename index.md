@@ -30,36 +30,36 @@ code: https://github.com/gcl-inha/ReFocus?tab=readme-ov-file
 
   <div class="item-3">
     <figure class="result-figure">
-      <img src="static/image/two bananas.png" >
+      <img src="static/image/three apples.png" >
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “two bananas”
+        <span class="caption-label">Caption:</span> “three apples”
       </figcaption>
     </figure>
   </div>
 
   <div class="item-4">
     <figure class="result-figure">
-      <img src="static/image/refrigerator below a scissors.png" >
+      <img src="static/image/a couch below a vase.png" >
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “refrigerator below a scissors”
+        <span class="caption-label">Caption:</span> “a couch below a vase”
       </figcaption>
     </figure>
   </div>
 
   <div class="item-5">
     <figure class="result-figure">
-      <img src="static/image/a knife right of a suitcase.png" >
+      <img src="static/image/a pizza right of a banana.png" >
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “a knife right of a suitcase”
+        <span class="caption-label">Caption:</span> “a pizza right of a banana”
       </figcaption>
     </figure>
   </div>
 
   <div class="item-6">
     <figure class="result-figure">
-      <img src="static/image/Four traffic lights.png">
+      <img src="static/image/a blue laptop and a brow bear.png">
       <figcaption class="result-caption">
-        <span class="caption-label">Caption:</span> “Four traffic lights”
+        <span class="caption-label">Caption:</span> “a blue laptop and a brown bear”
       </figcaption>
     </figure>
   </div>
